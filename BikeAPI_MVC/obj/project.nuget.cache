@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zorZsh/VuewSaUEeDxwwsJLwayZnCqGjtFM63fHzWB/GNlm61k8Fdt7ph0vsOq26VSi5TXUx5bYfqye7/eBviw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amori\\Desktop\\Repos\\BikeAPI_MVC\\BikeAPI_MVC\\BikeAPI_MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amori\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
